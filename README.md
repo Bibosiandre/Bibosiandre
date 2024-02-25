@@ -46,11 +46,7 @@
 
 *📈Статистика Github*:
 
-![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibosiandre&theme=apprentice)
-![static](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bibosiandre&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bibosiandre&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bibosiandre&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bibosiandre&theme=apprentice&utcOffset=8)
+
 
 
 
