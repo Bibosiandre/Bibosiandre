@@ -4,8 +4,8 @@
 
 *🚀Технологический стек*:
 
-<img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="160"> 
-<img src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="50"> 
+<img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="170"> 
+<img src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="60"> 
 
 *📲Прилложения*:
 
@@ -46,7 +46,11 @@
 
 *📈Статистика Github*:
 
-
+![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibosiandre&theme=apprentice)
+![static](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bibosiandre&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bibosiandre&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bibosiandre&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bibosiandre&theme=apprentice&utcOffset=8)
 
 
 
