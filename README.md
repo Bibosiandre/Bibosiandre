@@ -1,7 +1,3 @@
-Read in other Languages: [🇬🇧English](https://github.com/Bibosiandre/Bibosiandre/edit/main/README_en.md), &nbsp;[🇷🇺Русский](https://github.com/Bibosiandre/Bibosiandre/edit/main/README.md), &nbsp;[🇩🇪 Deutsch](https://github.com/Bibosiandre/Bibosiandre/edit/main/README_ge.md)
-
----
-
 <h1 height="25" > <i>🏂&nbsp;Обо мне: </i> </h1>
 
 
