@@ -1,13 +1,21 @@
-*🏂Обо мне*:
+<h1 height="25" > <i>🏂&nbsp;Обо мне: </i> </h1>
 
-Привет👋! Меня зовут Владислав, и я junior программист с опытом во frontend разработке. Расширяю навыки в backend разработке с Python и C#, а также изучаю работу с базами данных. Целью является стать Full Stack разработчиком и создавать качественные решения. В будущем хотел бы заниматься разработкой видеоигр или работать в сфере тестирования.
 
-*🚀Технологический стек*:
+<a>&nbsp;&nbsp;Привет👋! Меня зовут Владислав, я junior программист с опытом во frontend разработке. Имею опыт в проектировании интерфейсов UX/UI и активно испольузую стек HTML-CSS-JS. Знаком с фреймворками React и VueJS, а также понимаю синтаксис Php.</a><br> 
+&nbsp;&nbsp;Расширяю навыки в backend разработке с Python и C#, а также изучаю работу с базами данных в том числе анализ данных и написание запросов. Помимо разработки занимаюсь обслуживаем и изучением особенностей серверного оборудования для ЦОД, СХД и дополнительно работаю в 1С.</a><br>
+<a>&nbsp;&nbsp;Целью является стать Full Stack разработчиком и создавать качественные решения. В будущем хотел бы заниматься разработкой и ведением проектов или работать в сфере тестирования.</a><br>
+
+---
+
+<h1 height="25"> <i>🚀&nbsp;Технологический стек</i>: </h1>
 
 <img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="170"> 
-<img src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="60"> 
+<img src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="60">
 
-*📲Прилложения*:
+---
+
+
+<h1 height="25" > <i> 📲&nbsp;Прилложения</i>: </h1>
 
 <div style="display: flex;">
     <figure style="border-radius: 10px; overflow: hidden;">
@@ -44,7 +52,9 @@
 
 &nbsp;
 
-*📈Статистика Github*:
+---
+
+<h1 height="25"><i>📈&nbsp;Статистика Github</i>:</h1>
 
 ![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibosiandre&theme=apprentice)
 ![static](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bibosiandre&theme=apprentice)
