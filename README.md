@@ -48,6 +48,9 @@
 <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="Codepen" width="60" height="60">
 </figure>
+    <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="Codepen" width="60" height="60">
+</figure>
 </div>
 
 &nbsp;
