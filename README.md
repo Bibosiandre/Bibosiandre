@@ -9,9 +9,9 @@
 
 <h1 height="25"> <i>🚀&nbsp;Технологический стек</i>: </h1>
 
-<img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="170"> 
-<img src="https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="60">
-
+<img src="https://img.shields.io/badge/-HTML-red?style=&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="175"> 
+<img src="https://img.shields.io/badge/-Python-green?style=&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="65"> <img src="https://img.shields.io/badge/-SQL-yellow?style=&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="80"> 
+ 
 ---
 
 
