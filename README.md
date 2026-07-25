@@ -28,9 +28,11 @@ Expanding expertise in C# and AI models. My goal is to build high-quality automa
 
 <img src="https://img.shields.io/badge/-HTML-red?style=&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="175"> 
 <img src="https://img.shields.io/badge/-Python-green?style=&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="65"> <img src="https://img.shields.io/badge/-SQL-yellow?style=&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="80"> 
- 
 ---
 
+![GitHub Snake](/../output/github-snake.svg)
+
+---
 
 <h1 height="25" > <i> 📲&nbsp;Прилложения/Apps</i>: </h1>
 
@@ -89,11 +91,4 @@ Expanding expertise in C# and AI models. My goal is to build high-quality automa
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bibosiandre&theme=apprentice&utcOffset=8)
 
 [![](https://visitcount.itsvg.in/api?id=Bibosiandre&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-## 🐍 Моя GitHub Змейка
-
-![GitHub Snake](/../output/github-snake.svg)
-
-
-
 
