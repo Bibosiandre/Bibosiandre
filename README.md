@@ -32,7 +32,7 @@ Expanding expertise in C# and AI models. My goal is to build high-quality automa
 | **📊 Databases & Tools** | Microsoft SQL Server, PostgreSQL, SQLite, SQL, Data Analysis, Swagger, CodePen |
 | **🏭 Industrial IoT** | RS-485, OWEN, Siemens, WAGO, MOXA, Industrial Automation |
 | **💻 IDE & Apps** | VS Code, PyCharm, Visual Studio, Unity, Figma, Photoshop, PuTTY |
-| **🎯 Next Steps** | C#, Artificial Intelligence (AI) & Models |
+| **🎯 Next Steps** | C#, Artificial Intelligence (AI) & Models, Edge AI & TinyML, IoT|
 
 ---
 
