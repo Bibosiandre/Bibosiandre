@@ -24,63 +24,22 @@ Expanding expertise in C# and AI models. My goal is to build high-quality automa
 
 ---
 
-<h1 height="25"> <i>🚀&nbsp;Технологический стек/Tech stack</i>: </h1>
+### 🛠️ Tech Stack & Skills
 
-<img src="https://img.shields.io/badge/-HTML-red?style=&logo=html5&logoColor=white" alt="HTML Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-CSS-blue?style=&logo=css3&logoColor=white" alt="CSS Badge" height="50" width="120"> <img src="https://img.shields.io/badge/-JavaScript-orange?style=&logo=javascript&logoColor=white" alt="JavaScript Badge" height="50" width="175"> 
-<img src="https://img.shields.io/badge/-Python-green?style=&logo=python&logoColor=white" alt="Python Badge" height="50" width="150"> <img src="https://img.shields.io/badge/-C%23-blue?style=&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="65"> <img src="https://img.shields.io/badge/-SQL-yellow?style=&logo=c-sharp&logoColor=white" alt="C# Badge" height="50" width="80"> 
+| Направление | Технологии, инструменты и софт |
+| :--- | :--- |
+| **🌐 Web & Backend** | Python (Django, FastAPI), PHP, JavaScript, HTML5 / CSS3, Bootstrap |
+| **📊 Databases & Tools** | Microsoft SQL Server, PostgreSQL, SQLite, SQL, Data Analysis, Swagger, CodePen |
+| **🏭 Industrial IoT** | RS-485, OWEN, Siemens, WAGO, MOXA, Industrial Automation |
+| **💻 IDE & Apps** | VS Code, PyCharm, Visual Studio, Unity, Figma, Photoshop, PuTTY |
+| **🎯 Next Steps** | C#, Artificial Intelligence (AI) & Models |
+
 ---
 
 ![GitHub Snake](/../output/github-snake.svg)
 
 ---
 
-<h1 height="25" > <i> 📲&nbsp;Прилложения/Apps</i>: </h1>
-
-<div style="display: flex;">
-    <figure style="border-radius: 10px; overflow: hidden;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="60" height="60">
-  </figure>
-          <figure style="border-radius: 10px; overflow: hidden;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60" height="60">
-  </figure>
-  <figure style="border-radius: 10px; overflow: hidden;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="60" height="60">
-  </figure>
-  <figure style="border-radius: 10px; overflow: hidden;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="60" height="60">
-  </figure>
-    <figure style="border-radius: 10px; overflow: hidden;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm" width="60" height="60">
-  </figure>
-      <figure style="border-radius: 10px; overflow: hidden;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="VS" width="60" height="60">
-  </figure>
-  <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="Swagger" width="60" height="60">
-</figure>
-  <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL" width="60" height="60">
-</figure>
-<figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" height="60">
-</figure>
-<figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" alt="Codepen" width="60" height="60">
-</figure>
-        <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="100" height="80">
-    </figure>
-         <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="Postgres" width="100" height="80">
-    </figure>
-    <figure style="border-radius: 10px; overflow: hidden; padding: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="Putty" width="60" height="60">
-</figure>
-</div>
-
-&nbsp;
-
----
 
 <h1 height="25"><i>📈&nbsp;Статистика Github/GitHub stats</i>:</h1>
 
