@@ -92,7 +92,8 @@ Expanding expertise in C# and AI models. My goal is to build high-quality automa
 
 ## 🐍 Моя GitHub Змейка
 
-![GitHub Snake](https://githubusercontent.com)
+![GitHub Snake](/../output/github-snake.svg)
+
 
 
 
