@@ -46,4 +46,4 @@ Expanding expertise in C# and AI models. My goal is to build high-quality automa
 ![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibosiandre&theme=apprentice)
 ![static](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bibosiandre&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bibosiandre&theme=apprentice)
-<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Bibosiandre&theme=tokyonight" alt="GitHub Stats Terminal" style="width: 67%; max-width: 400px;">
+<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Bibosiandre&theme=tokyonight" alt="GitHub Stats Terminal" style="width: 67%; max-width: 50%;">
