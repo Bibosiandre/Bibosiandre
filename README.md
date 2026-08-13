@@ -1,25 +1,18 @@
 <h1 height="25" > <i>🏂&nbsp;Обо мне: </i> </h1>
 
 
-<a>&nbsp;&nbsp;Приветствую! Меня зовут Владислав. Я инженер-разработчик с опытом fullstack разработке и автоматизации производственных процессов промышленного предприятия. Имею опыт в проектировании веб-приложений(клиент-сервер) и интерфейсов UX/UI. Знаком с фреймворками Djano, FastAPI, Uvicorn ASGI, работал с PHP, JS и многим другим функционалом, дополнительно есть навыки работы с оборудованием RS-485</a><br>
+Владислав | Fullstack-разработчик & Инженер автоматизации. Создаю автоматизированные решения на стыке софта и железа.
 
-&nbsp;&nbsp;Расширяю навыки с Python, C# и ИИ моделями, а также изучаю работу с БД в том числе анализ данных SQL. Помимо разработки занимаюсь обслуживаем и изучением особенностей серверного оборудования для ЦОД, СХД, телекоммуникационного оборудования и других слаботочных систем, также есть опыт работы в 1С:ТОИР/ERP/8.3</a><br>
-
-<a>&nbsp;&nbsp;Целью является расти как квалифированный разноплановый специалист и создавать качественные автоматизированные решения. В будущем хотел бы заниматься ведением проектов в роли "Продукт менеджера/Тим лида" или "Ведущим сис.админом"</a><br>
+Целью является расти как квалифированный разноплановый специалист и создавать качественные автоматизированные решения. В будущем хотел бы заниматься ведением проектов
 
 <details>
 <summary>🌐<b>Read in English(EN)</b></summary>
 <br>
 
-Hi! I'm Vladislav, a Full-Stack Developer and Industrial Automation Engineer.
-
-### 🛠️ Tech Stack & Skills
-* **Backend & Web:** Python (Django, FastAPI, Uvicorn), PHP, JavaScript, SQL & Data Analysis.
-* **Industrial IoT (RS-485):** OWEN, Siemens, WAGO, MOXA, Mercury, PromPower, EMIS, Endress+Hauser.
-* **Infrastructure & Enterprise:** Data Center & Storage hardware, Telecom, Low-voltage systems, 1C:TOIR / ERP 8.3.
+Vladislav | Fullstack Developer & Automation Engineer. I create automated solutions at the intersection of software and hardware.
 
 ### 🎯 Career Focus & Goals
-Expanding expertise in C# and AI models. My goal is to build high-quality automated solutions and transition into Product Management, Team Lead, or Lead System Administrator roles.
+My goal is to grow as a skilled, versatile specialist and create high-quality automated solutions. In the future, I would like to work in project management.
 </details
 
 ---
